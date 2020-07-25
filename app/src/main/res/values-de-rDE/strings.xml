@@ -3,4 +3,5 @@
     <string name="app_name">Würfel</string>
     <string name="roll">Würfeln</string>
     <string name="button_text">Würfeln</string>
+    <string name="dice_image">Würfel Bild</string>
 </resources>
